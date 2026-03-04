@@ -24,4 +24,3 @@ jobs:
         run: |
           echo "Este trabajo se ejecuta en un Runner de MacOS"
           echo $RUNNER_OS
-
