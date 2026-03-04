@@ -20,7 +20,7 @@ Usaremos una aplicación React que desarrollaremos con la ayuda de la utilidad c
     - desencadente: push
     - Trabajos:
       - **build**, que se ejecuta en ubuntu-latest y tiene dos steps:
-        - *'Checkout Code'*, que descargar el código del repositorio en el directorio de trabajo actual.
+        - *'Checkout Code'*, que descarga el código del repositorio en el directorio de trabajo actual.
         - *'Printing Folders'*, que imprime la estructura de la carpeta tras la descarga del código.
 3. Confirmar los cambios y subir (push) el código. Inspeccionar el resultado de la ejecución del workflow.
 4. Elimine el step 'Printing Folders' y agragar dos nuevos steps:
