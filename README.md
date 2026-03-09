@@ -4,4 +4,4 @@ Ejercicios:
  - [event Filters](./ejercicios/05-eventFilters.md)
  - [Act. Types](./ejercicios/06-activityTypes.md)
 
-Editar README.md para crear nueva rama
+Volver a editar en la nueva rama
