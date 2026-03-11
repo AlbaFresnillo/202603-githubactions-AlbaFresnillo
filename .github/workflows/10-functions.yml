@@ -11,6 +11,8 @@ jobs:
            run: echo "Bug fix detected"
          - name: Failing step
            run: exit 1
+         - name: Paso intermedio
+           run: echo "Hola Pepito"  
          - name: Run on success
            if: success()
            run: echo "Success step"
