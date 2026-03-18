@@ -34,4 +34,7 @@ jobs:
               run: |
                 echo "Deploying build artifacts"
                 echo url=https://www.babel.com >> $GITHUB_OUTPUT
+            - name: Fail at End
+              run: exit -1
+                  
 
