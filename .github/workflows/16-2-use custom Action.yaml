@@ -10,4 +10,6 @@ jobs:
 
           - name: "deploy"
             uses: ./.github/deploy-action
+            with:
+              targer-dir: "mi dir"
    
